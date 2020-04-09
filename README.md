@@ -8,7 +8,7 @@ Scraping portatiles.ipynb : contiene todo el código debidamente comentado para 
 ## Dataset
 El dataset podemos encontrarlo en Zenodo con el DOI: 10.5281/zenodo.3746625
 
-También en el siguiente link: https://zenodo.org/record/3746625#.Xo9irsgzZPY
+También en el siguiente link: https://zenodo.org/record/3746625#.Xo9irsgzZPY / https://github.com/rgommar/Web-Scraping/blob/PRACTICA-1.-WEB-SCRAPING/Portatiles.csv
 ## Recursos
 1.	Subirats, L., Calvo, M. (2019). Web Scraping. Editorial UOC.
 2.	Masip, D. (2010). El lenguaje Python. Editorial UOC.
